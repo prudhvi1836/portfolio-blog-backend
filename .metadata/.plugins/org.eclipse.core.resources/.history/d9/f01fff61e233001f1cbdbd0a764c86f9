@@ -1,0 +1,5 @@
+package com.companyname.blogbackend.util;
+
+public class BlogNotFoundException {
+
+}
