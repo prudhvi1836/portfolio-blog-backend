@@ -1,0 +1,5 @@
+package com.companyname.blogbackend.controller;
+
+public class BlogPostController {
+
+}
